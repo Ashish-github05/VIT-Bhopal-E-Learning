@@ -24,4 +24,4 @@ Editor
 Visual Studio
 
 Browser	
-Chrome
+Chrome/Brave
